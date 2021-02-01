@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+You can find me on [GitHub](https://github.com/korobenkoss).
